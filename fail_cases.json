@@ -1,0 +1,12 @@
+[
+  {
+    "input": "1+1等于几",
+    "expect": "2",
+    "actual_output": "模型输出结果"
+  },
+  {
+    "input": "2*3等于几",
+    "expect": "6",
+    "actual_output": "模型输出结果"
+  }
+]
